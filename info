@@ -1,4 +1,2 @@
 # on-off-system
-we have two type of on off system 
-one of them digital serial and the other is analog serial
-in this pictuer you can see the digital serial in the left and the analog serial in the right
+On-Off control is the simplest form of feedback control. An on-off controller simply drives the manipulated variable from fully closed to fully open depending on the position of the controlled variable relative to the setpoint. A common example of on-off control is the temperature control in a domestic heating system
